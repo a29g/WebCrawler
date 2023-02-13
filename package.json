@@ -19,5 +19,8 @@
   "homepage": "https://github.com/a29g/WebCrawler#readme",
   "devDependencies": {
     "jest": "^29.4.2"
+  },
+  "dependencies": {
+    "jsdom": "^21.1.0"
   }
 }
