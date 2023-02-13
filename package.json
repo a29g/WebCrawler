@@ -1,0 +1,23 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a29g/WebCrawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a29g/WebCrawler/issues"
+  },
+  "homepage": "https://github.com/a29g/WebCrawler#readme",
+  "devDependencies": {
+    "jest": "^29.4.2"
+  }
+}
